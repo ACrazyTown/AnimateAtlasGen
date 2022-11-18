@@ -1,0 +1,13 @@
+.vscode/
+__pycache__/
+
+#Ignore any inputs or outputs; don't want any FLA leaked hehe
+input/*
+output/*
+
+#Can't commit empty folders; ignore readme
+!input/readme.txt
+!output/readme.text
+
+# Testing
+7zr.exe
