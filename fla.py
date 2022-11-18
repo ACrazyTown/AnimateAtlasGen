@@ -42,8 +42,7 @@ class FLADocument():
         basename_split = os.path.basename(path).split(".")
         temp_file_path = f"{basename_split[0]}_TMP.{basename_split[1]}"
 
-        shutil.copy(path, temp_file_path)
-
+        #shutil.copy(path, temp_file_path)
         #magicnum = bytearray(b"\xd0\xcd\x11\xe0\xa1\xb1\x1a\xe1\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00")
         #with open(temp_file_path, "ab") as f:
         #    f.write(magicnum)
