@@ -1,0 +1,1 @@
+This folder will contain extracted data from .FLA files, do not alter anything here or the program may malfunction!

@@ -3,11 +3,14 @@ __pycache__/
 
 #Ignore any inputs or outputs; don't want any FLA leaked hehe
 input/*
-**/output/*
+temp/*
+output/*
 
 #Can't commit empty folders; ignore readme
 !input/readme.txt
 !output/readme.txt
+!temp/readme.txt
 
 # Testing
 7zr.exe
+haxetestshit/
