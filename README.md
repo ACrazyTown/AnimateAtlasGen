@@ -1,6 +1,8 @@
 # AnimateAtlasGen
 
-W.I.P
+Will this ever be finished? Who knows, there's a shit ton of things required to do to make this work.
+
+I will gladly accept any contribution!!!
 
 ## Credits
 
